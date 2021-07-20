@@ -1,2 +1,1 @@
 # counter
-The counter example
